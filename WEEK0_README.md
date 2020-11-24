@@ -87,9 +87,9 @@ send ICMP ECHO_REQUEST packets to network hosts
 2. nslookup.
 query Internet name servers interactively
 
-3. command to find ip address and mac id of the interface
+3. command to find ip address and mac id of the interface<br>
 ipconfig
 
-f4. find the hostname of the machine.
+f4. find the hostname of the machine.<br>
 hostname
 
